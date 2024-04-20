@@ -1,0 +1,35 @@
+.header{
+    background-color: rgb(112, 132, 113);
+    color: whitesmoke;
+    font-size: larger;
+    font-weight: bolder;
+    Font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+.big{
+    font-size: 40px;
+}
+.organize{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.top{
+    font-weight: bold;
+}
+.common{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 22px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.sub{
+    font-style: italic;
+}
+.body{
+    line-height: 45px;
+}
+.titles{
+    height: 400px;
+}
